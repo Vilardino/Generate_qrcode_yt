@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#.idea pycharm
+.idea/
+
+# Dir QRs
+QR/
